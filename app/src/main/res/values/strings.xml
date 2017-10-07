@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BuildingLayoutP1</string>
+    <string name="name">Nama :</string>
+    <string name="your_name">Muhtar</string>
+    <string name="address">Alamat :</string>
+    <string name="your_address">Jl. Pratista Barat IV 30 Antapani</string>
+    <string name="phone">No Telp :</string>
+    <string name="your_phone">+62896-4457-9105</string>
+    <string name="hobi">Hobi :</string>
+    <string name="your_hobi">Belajar dan Mengaji</string>
+    <string name="study">Kuliah :</string>
+    <string name="your_study">STMIK-IM Teknik Informatika S1</string>
+</resources>
